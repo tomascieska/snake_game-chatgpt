@@ -1,0 +1,15 @@
+body {
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+ 
+
+}
+
+#gameCanvas{
+  background-color: aliceblue;
+  box-shadow: 5px 5px 5px darkorchid;
+  border-radius: 10px;
+}
